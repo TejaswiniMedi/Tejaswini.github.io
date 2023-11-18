@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello there, I'm Tejaswini!"
+title: "Hello there, I'm Tejaswini 👋!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
