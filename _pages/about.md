@@ -11,5 +11,5 @@ I am a PhD candidate from the [Visual-Computing Group](https://www.vc.informatik
 
 News
 ------
-* 03.10.2023: Our work **Towards Class-wise Robustness Analysis** was accepted at ICCV23, Workshop on Out Of Distribution Generalization in Computer Vision (<span style="color:red">some **Oral** text</span>)!
+* 03.10.2023: Our work **Towards Class-wise Robustness Analysis** was accepted at ICCV23, Workshop on Out Of Distribution Generalization in Computer Vision (<span style="color:red">**Oral**</span>)!
 * 20.09.2023: Our paper **FullFormer: Generating Shapes Inside Shapes** was accepted at DAGM GCPR 2023 Conference!
