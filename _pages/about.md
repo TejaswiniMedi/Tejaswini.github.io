@@ -1,14 +1,13 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hello there, I'm Tejaswini!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a PhD candidate from the [Visual-Computing Group].(https://www.vc.informatik.uni-siegen.de/) of the University of Siegen under the supervision of [Prof.Dr.-Ing. Margret Keuper].(https://scholar.google.de/citations?user=KMqMQAcAAAAJ&hl=de). I have received my Master's in Mechatronics from the University of Siegen and a Bachelor's degree in Mecha1nical Engineering from India with Distinction. My areas of research include 3D Generative Models, Neural Network Robustness, and 3D geometric learning. I also worked in the field of Reinforcement Learning during my master's as a Student researcher.
 
 A data-driven personal website
 ======
