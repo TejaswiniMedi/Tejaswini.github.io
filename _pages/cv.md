@@ -11,30 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech. in Mechanical Engineering, Osmania University, India, 2018
+* M.Sc. in Mechatronics, University of Siegen, Germany, 2022
+* Ph.D in Computer Science, University of Siegen, 2026 (expected)
 
-Work experience
+Academic experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Since 2022: PhD Candidate
+  * Visual Computing Group, University of Siegen
+  * Supervisor: Prof.Dr.-Ing. Margret Keuper
+    
+* 2022: Master Thesis on 3D Content Generation
+  * Endress+Hauser, Maulburg
+  * Supervisor: Prof.Dr.-Ing. Margret Keuper
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2021: Student Researcher
+  * IPEM Group, Univeristy of Siegen
+  * Research on Machine Learning and Reinforcement Learning Projects
 
 Publications
 ======
@@ -54,6 +47,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
