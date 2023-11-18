@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "FullFormer: Generating Shapes Inside Shapes"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2023-FullFormer: Generating Shapes Inside Shapes
+excerpt: 'Implicit generative models have gained significant popularity for modeling 3D data and have recently proven to be successful in generating high-quality 3D shapes. However, existing research predominantly concentrates on generating outer shells of 3D shapes, ignoring the representation of internal details. In this work, we alleviate this limitation by presenting an implicit generative model that facilitates the generation of complex 3D shapes with rich internal geometric details. Our proposed model utilizes unsigned distance fields, enabling the representation of nested 3D shapes by learning from watertight and non-watertight data. Furthermore, We employ a transformer-based auto-regressive model for shape generation that leverages context-rich tokens from vector quantized shape embeddings. The generated tokens are decoded into unsigned distance field values which further render into novel 3D shapes exhibiting intrinsic details. We demonstrate that our model achieves state-of-the-art point cloud generation results on the popular ShapeNet classes ’Cars’, ’Planes’, and ’Chairs’. Further, we curate a dataset that exclusively comprises shapes with realistic internal details from the ‘Cars’ class of ShapeNet, denoted FullCars. This dataset allows us to demonstrate our method’s efficacy in generating shapes with rich internal geometry.'
+date: 2023-09-20
+venue: 'DAGM GCPR 2023'
+paperurl: 'https://github.com/TejaswiniMedi/Tejaswini.github.io/files/GCPR_FASTTRACK_111.pdf'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Implicit generative models have gained significant popularity for modeling 3D data and have recently proven to be successful in generating high-quality 3D shapes. However, existing research predominantly concentrates on generating outer shells of 3D shapes, ignoring the representation of internal details. In this work, we alleviate this limitation by presenting an implicit generative model that facilitates the generation of complex 3D shapes with rich internal geometric details. Our proposed model utilizes unsigned distance fields, enabling the representation of nested 3D shapes by learning from watertight and non-watertight data. Furthermore, We employ a transformer-based auto-regressive model for shape generation that leverages context-rich tokens from vector quantized shape embeddings. The generated tokens are decoded into unsigned distance field values which further render into novel 3D shapes exhibiting intrinsic details. We demonstrate that our model achieves state-of-the-art point cloud generation results on the popular ShapeNet classes ’Cars’, ’Planes’, and ’Chairs’. Further, we curate a dataset that exclusively comprises shapes with realistic internal details from the ‘Cars’ class of ShapeNet, denoted FullCars. This dataset allows us to demonstrate our method’s efficacy in generating shapes with rich internal geometry.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](https://github.com/TejaswiniMedi/Tejaswini.github.io/blob/master/files/GCPR_FASTTRACK_111.pdf)
