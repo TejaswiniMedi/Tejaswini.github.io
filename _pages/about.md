@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD candidate from the [Visual-Computing Group](https://www.vc.informatik.uni-siegen.de/) of the University of Siegen under the supervision of [Prof.Dr.-Ing. Margret Keuper](https://scholar.google.de/citations?user=KMqMQAcAAAAJ&hl=de). I have received my Master's in Mechatronics from the University of Siegen and a Bachelor's degree in Mechanical Engineering from India with Distinction. My areas of research include 3D Generative Models, Neural Network Robustness, and 3D geometric learning. I also worked in the field of Reinforcement Learning during my master's as a Student researcher. I am happy to collaborate on interesting topics in these domains :grinning:!
+I am a PhD candidate from the [Visual-Computing Group](https://www.vc.informatik.uni-siegen.de/) of the University of Siegen under the supervision of [Prof.Dr.-Ing. Margret Keuper](https://scholar.google.de/citations?user=KMqMQAcAAAAJ&hl=de). I have received my Master's in Mechatronics from the University of Siegen and a Bachelor's degree in Mechanical Engineering from India with Distinction. My areas of research include 3D Generative Models, Neural Network Robustness, and 3D geometric learning. I also worked in the field of Reinforcement Learning during my master's as a Student researcher. I am happy to collaborate on interesting topics in these domains 😀!
 
 A data-driven personal website
 ======
