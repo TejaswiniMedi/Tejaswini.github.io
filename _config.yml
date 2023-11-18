@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Tejaswini Medi"
   avatar           : "profile.jpg"
-  bio              : "PhD Candidate, Areas of Interest: 3D Generative Models, Neural Network Robustness"
-  location         : "Mannheim, Germany"
+  bio              : "PhD Candidate"
+  location         : 
   employer         : "University of Siegen"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=keoZYgwAAAAJ&hl=en"
-  email            :
+  email            : "tejaswini.medi@uni-siegen.de"
   researchgate     :  
   uri              :
   bitbucket        :
