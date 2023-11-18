@@ -1,7 +1,7 @@
 ---
 title: "FullFormer: Generating Shapes Inside Shapes"
 collection: talks
-type: "talk on recent publication"
+type: "Talk on recent publication"
 permalink: /talks/talk-1
 venue: "SFI Visual Intelligence, Norway"
 date: 2023-10-26
