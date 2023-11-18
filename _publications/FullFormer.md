@@ -1,7 +1,7 @@
 ---
 title: "FullFormer: Generating Shapes Inside Shapes"
 collection: publications
-permalink: /publication/2023-FullFormer: Generating Shapes Inside Shapes
+permalink: /publication/2023-FullFormer
 excerpt: 'Implicit generative models have gained significant popularity for modeling 3D data and have recently proven to be successful in generating high-quality 3D shapes. However, existing research predominantly concentrates on generating outer shells of 3D shapes, ignoring the representation of internal details. In this work, we alleviate this limitation by presenting an implicit generative model that facilitates the generation of complex 3D shapes with rich internal geometric details. Our proposed model utilizes unsigned distance fields, enabling the representation of nested 3D shapes by learning from watertight and non-watertight data. Furthermore, We employ a transformer-based auto-regressive model for shape generation that leverages context-rich tokens from vector quantized shape embeddings. The generated tokens are decoded into unsigned distance field values which further render into novel 3D shapes exhibiting intrinsic details. We demonstrate that our model achieves state-of-the-art point cloud generation results on the popular ShapeNet classes ’Cars’, ’Planes’, and ’Chairs’. Further, we curate a dataset that exclusively comprises shapes with realistic internal details from the ‘Cars’ class of ShapeNet, denoted FullCars. This dataset allows us to demonstrate our method’s efficacy in generating shapes with rich internal geometry.'
 date: 2023-09-20
 venue: 'DAGM GCPR 2023'
