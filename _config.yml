@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tejaswini's Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Tejaswini Medi"
 description              : &description "PhD Candidate"
