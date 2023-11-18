@@ -1,6 +1,6 @@
 ---
 title: "3D Generative Models"
-excerpt: '/images/G.png'
+excerpt: "3D Generation.<br/><img src='/images/G.png'>"
 collection: portfolio
 ---
 
